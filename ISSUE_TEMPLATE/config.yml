@@ -1,1 +1,11 @@
 blank_issues_enabled: false
+contact_links:
+  - name: 💬 Questions & Discussions
+    url: https://github.com/colveor/.github/discussions
+    about: Ask questions and discuss ideas with the Colveor community.
+  - name: 📚 Documentation
+    url: https://github.com/colveor/colveor-docs
+    about: Read the Colveor documentation and guides.
+  - name: 🔐 Report a Security Vulnerability
+    url: https://github.com/colveor/.github/security/policy
+    about: Please report security issues privately, not through public issues.
